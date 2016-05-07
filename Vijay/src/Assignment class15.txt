@@ -1,0 +1,1 @@
+ Not able to invoke the not static method from static, but possible other wise
